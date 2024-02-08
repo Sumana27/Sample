@@ -1,0 +1,2 @@
+# Sample
+setting up git
